@@ -1,0 +1,30 @@
+bin/
+*.class
+
+# Compiled class files
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
