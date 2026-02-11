@@ -1,6 +1,14 @@
 package calculadora15;
+/**
+ * Clase CalculadoraGITXX
+ * Esta clase realiza operaciones básicas de cálculo, como sumar, restar, multiplicar y dividir. 
+ */   
+  @author Olabarria
+  @version 1.0
+
 
 public class Calculadora15 {
+
 
     
     public static int sumar(int a, int b) {
