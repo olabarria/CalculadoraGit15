@@ -1,5 +1,5 @@
 package calculadora15;
-/**
+/*
  * Clase CalculadoraGITXX
  * Esta clase realiza operaciones básicas de cálculo, como sumar, restar, multiplicar y dividir. 
  */   
